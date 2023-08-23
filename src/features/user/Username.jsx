@@ -1,3 +1,3 @@
 export default function Username() {
-  return <div className="font-semibold">Mohamed</div>;
+  return <div className="hidden text-sm font-semibold">Mohamed</div>;
 }
